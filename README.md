@@ -4,6 +4,6 @@
 
 ## How To Use
 
-`bundle`  
-`ruby app.rb`  
-`http://localhost:4567/`  
+`npm install all`
+`node app`
+`http://localhost:3000/`  
