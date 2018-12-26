@@ -1,9 +1,13 @@
 # Thermostat App
 
-![screen shot](public/screenshot.png)
-
 ## How To Use
 
-`npm install all`
-`node app`
-`http://localhost:3000/`  
+`npm install`   
+`node app`  
+`http://localhost:3000/`   
+
+## How to run the tests
+
+`open SpecRunner.html`
+
+![screen shot](public/screenshot.png)
